@@ -1,0 +1,6 @@
+RENCANA KONTEN PITU
+
+- Javascript
+- PHP Frameworks
+- Interview
+- Vlogs
